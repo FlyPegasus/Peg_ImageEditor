@@ -1,1 +1,1 @@
-Readme for Peg Image Editor
+Python graphical user application that edits images
